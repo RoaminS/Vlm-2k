@@ -121,3 +121,17 @@ Graceful exit ensures freeing GPU memory and properly closing FFmpeg processes.
 * Expand object detection categories
 * Optimize for multi-stream inputs
 * Further enhance FFT temporal analysis
+
+
+---
+
+## 📜 Licence
+
+Ce projet est publié sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.fr).
+
+Vous êtes libre de :
+- **Partager** — copier et redistribuer le matériel sur tout support ou format.
+- **Adapter** — remixer, transformer et créer à partir du matériel.
+
+Sous les conditions suivantes :
+- **Attribution** — Vous devez créditer l'auteur original et indiquer si des modifications ont été effectuées.
